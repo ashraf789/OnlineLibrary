@@ -1,0 +1,149 @@
+<!-------------------------main css------------------------>
+.main_body{
+	margin:0px;
+	}
+.main{
+	height:auto;
+	width:980px;
+	margin:auto;	
+	}
+.main a{
+	text-decoration:none;
+	}
+.header{
+	height:160px;
+	width:980px;
+
+	}
+.header .left{
+	
+	}
+.menu{
+	height:30px;
+	width:980px;
+	background-image:url(../image/images2.jpg);
+	}
+.menu li{
+	list-style:none;
+	float:left;
+	margin-right:15px;
+	padding-left:10px;
+	padding-top:5px;
+	}
+.menu li a{
+	text-decoration:none;
+	font-size:18px;
+	color:#282828;
+	}
+	
+.menu li a:hover{
+	color:#666;
+	}
+.menu li:hover{
+	height:25px;
+	padding-top:4px;
+	background-image:url(../image/images1.jpg);
+	}
+.slide{
+	width:980px;
+	height:300px;
+	}
+.conten{	
+	background-color:#FFF;
+	width:980px;
+	height:1400px;
+	}
+	
+.footer{
+	width:980;
+	height:25px;
+	color:#333;
+	text-align:center;
+	background-image:url(../image/bg.jpg);
+	font-size:14px;
+	}
+	
+<!-------song css-------------------------------------------------------------->
+	
+	
+	
+	
+.bangla_song{
+	padding-left:20px;
+	padding-top:50px;
+	}
+.bangla_song li{
+	padding-bottom:20px;
+	list-style:none;
+	}
+.bangla_song li a{
+	text-decoration:none;
+	color:#9C9;
+	padding-left:10px;
+	height:20px;
+    font-size:20px;
+	}
+.table{
+	width:680px;
+	background-color:#F9F;
+	color:#09F;
+	}
+.table #table_left{
+	background-color:#9CF;
+	width:600px;
+	padding-left:20px;
+	}
+.table #table_left a{
+	text-decoration:none;
+	}
+.table #table_left a:hover{
+	color:#9F0;
+	}
+.table #table_right{
+	background-color:#CFF;
+	width:90px;
+	padding-left:10px;
+	}
+.table tr{
+	height:25px;
+	}
+	
+	
+	
+	
+<!-------------slider css--------------------------------->
+
+        .captionOrange, .captionBlack
+        {
+            color: #fff;
+            font-size: 20px;
+            line-height: 30px;
+            text-align: center;
+            border-radius: 4px;
+        }
+        .captionOrange
+        {
+            background: #EB5100;
+            background-color: rgba(235, 81, 0, 0.6);
+        }
+        .captionBlack
+        {
+        	font-size:16px;
+            background: #000;
+            background-color: rgba(0, 0, 0, 0.4);
+        }
+        a.captionOrange, A.captionOrange:active, A.captionOrange:visited
+        {
+        	color: #ffffff;
+        	text-decoration: none;
+        }
+        a.captionOrange:hover
+        {
+            color: #eb5100;
+            text-decoration: underline;
+            background-color: #eeeeee;
+            background-color: rgba(238, 238, 238, 0.7);
+        }
+.log_in:hover{
+	background-color:#C9C;
+	}

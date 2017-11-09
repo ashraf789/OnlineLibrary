@@ -1,0 +1,76 @@
+#conten_left{
+	width:300px;
+	float:left;
+	background-color:#CCC;
+	height:1400px;
+	}
+#conten_left #book_li li{
+	padding-top:5px;
+	list-style:none;
+	}
+#conten_left #book_li li a{
+	text-decoration:none;
+	font-size:12px;
+	text-align:justify;
+	
+	}
+#conten_left #book_li li a:hover{
+	color:#C6F;
+	}
+#conten_left .div1{
+   height:30px; 
+   width:280px; 
+   background-color:#336; 
+   padding-top:10px; 
+   padding-left:20px;
+  }
+#conten_left .div2{
+	width:160px; 
+	height:20px; 
+	padding-left:10px; 
+	background-color:#F6C; 
+	text-align:center; 
+	border-radius:10px
+	}
+#conten_left h4{
+	color:#666; 
+	padding-left:20px; 
+	padding-top:15px;
+	}
+#conten_left font{
+	color:#9CF;
+	}
+	
+
+#conten_right{
+	width:680px;
+	float:right;
+	height:1400px;
+	background-color:#CCC;
+	}
+#conten_right #change_conten{
+	height:860px;
+	width:680px;
+	background-color:#CCC;
+	}
+	
+#conten_right .conten_right_div1{
+	height:30px; 
+	width:680px; 
+	padding-top:10px; 
+	background-color:#336;
+	}
+#conten_right .conten_right_div2{
+	width:100px; 
+	padding-left:10px; 
+	height:20px;  
+	float:left; 
+	background-color:#39F;
+    border-radius:5px 0px 0px 5px;
+	}
+#conten_right .marque_div1{
+	width:570px; height:20px;  float:right; background-color:#39F; border-radius:0px 5px 5px 0px;
+	}
+#conten_right .marque_div1 font{
+	font-size:14px; color:#9C9
+	}

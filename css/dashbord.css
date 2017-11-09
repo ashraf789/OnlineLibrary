@@ -1,0 +1,32 @@
+#uplode:hover{
+	background-color:#999;
+	color:#333;
+	text-decoration:underline;
+	}
+.conferm{
+	width:980px;
+	margin:auto;
+	height:150px;
+	background-color:#00CC99;
+    }
+p a{
+text-decoration:none;
+}
+.report_page{
+	height:700px;
+	width:980px;
+	margin:auto;
+	overflow:scroll;
+	}
+.report_page_left{
+	width:700px;
+	background-color:#CC6633;
+	float:left;
+	}
+.report_page_right{
+	width:280px;
+	float:right;
+	}
+.report_page_right h4:hover{
+	background-color:#099;
+	}
